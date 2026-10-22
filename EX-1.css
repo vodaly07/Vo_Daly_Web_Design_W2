@@ -1,0 +1,30 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+.container {
+    width: 560px;
+    margin: 40px auto;
+}
+.btn {
+    border: none;
+    color: white;
+    padding: 7px 14px;
+    border-radius: 30px;
+}
+.aqua{
+    background-color:aqua;
+}
+.yellow{
+    background-color: yellow;
+}
+.blueviolet{
+    background-color: blueviolet;
+}
+.card {
+    background-color: white;
+    width: 700px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+}
